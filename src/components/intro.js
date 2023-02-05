@@ -12,14 +12,14 @@ export default function Intro() {
           href="https://famoushairstyle.org/posts/dmca-policy"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          DMCA Policy
+            DMCA Policy  
         </a>{'   '}
         {'   '}
         <a
           href="https://famoushairstyle.org/posts/about-us"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          About us
+            About us  
         </a>
         {'   '}
         {'   '}
@@ -27,7 +27,7 @@ export default function Intro() {
           href="https://famoushairstyle.org/posts/privacy-policy"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Privacy Policy
+            Privacy Policy  
         </a>
         .
       </h4>
