@@ -9,17 +9,25 @@ export default function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         {' '}
         <a
-          href="https://famoushairstyle.org/dmca-policy"
+          href="https://famoushairstyle.org/posts/dmca-policy"
           className="underline hover:text-success duration-200 transition-colors"
         >
           DMCA Policy
-        </a>{' '}
-        {' '}
+        </a>{'   '}
+        {'   '}
         <a
-          href="https://famoushairstyle.org/about-us"
+          href="https://famoushairstyle.org/posts/about-us"
           className="underline hover:text-success duration-200 transition-colors"
         >
           About us
+        </a>
+        {'   '}
+        {'   '}
+        <a
+          href="https://famoushairstyle.org/posts/privacy-policy"
+          className="underline hover:text-success duration-200 transition-colors"
+        >
+          Privacy Policy
         </a>
         .
       </h4>
